@@ -18,7 +18,7 @@ Implementation:
 
     cd("C:\\\directory layer 1\\\directory layer 2")
 
-    Notice: each layer of directory need to be separated by a "\\\".
+    Notice: each layer of directory need to be separated by a "\\\\".
 
 5. Install the following julia packages if you haven't installed them yet. Enter code:
 
